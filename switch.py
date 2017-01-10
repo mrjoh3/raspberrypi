@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # from: http://razzpisampler.oreilly.com/ch07.html
 
 import RPi.GPIO as GPIO
